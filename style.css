@@ -1,0 +1,17 @@
+body {
+  background-color: beige;
+}
+h1,
+p {
+  text-align: center;
+}
+.links {
+  text-align: center;
+  margin: 10px;
+}
+a {
+  padding: 10px;
+}
+img {
+  max-width: 100%;
+}
